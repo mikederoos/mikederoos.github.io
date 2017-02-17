@@ -1,0 +1,106 @@
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="Localhost.net" resolutions="1x" timestamp="1487326660395">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="master_a-stramien.css" crc="329567519" ref="mains-en-lvls:mid:builds:maps:top:jung:tactiek:game-info:index:adc"/>
+    <file name="mains-en-lvls.css" crc="354559848" ref="mains-en-lvls"/>
+    <file name="mid.css" crc="6718086" ref="mid"/>
+    <file name="builds.css" crc="3995118812" ref="builds"/>
+    <file name="maps.css" crc="4228882552" ref="maps"/>
+    <file name="top.css" crc="3835919685" ref="top"/>
+    <file name="jung.css" crc="235174061" ref="jung"/>
+    <file name="tactiek.css" crc="62629294" ref="tactiek"/>
+    <file name="game-info.css" crc="259145408" ref="game-info"/>
+    <file name="index.css" crc="4220726475" ref="index"/>
+    <file name="adc.css" crc="358350828" ref="adc"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:maps:game-info:mains-en-lvls:builds:tactiek:adc:mid:jung:top"/>
+    <file name="museutils.js" crc="163421577" ref="index:maps:game-info:mains-en-lvls:builds:tactiek:adc:mid:jung:top"/>
+    <file name="whatinput.js" crc="86476730" ref="index:maps:game-info:mains-en-lvls:builds:tactiek:adc:mid:jung:top"/>
+    <file name="museconfig.js" crc="168988563" ref="index:maps:game-info:mains-en-lvls:builds:tactiek:adc:mid:jung:top"/>
+    <file name="jquery.musemenu.js" crc="146495465" ref="index:maps:game-info:mains-en-lvls:builds:tactiek:adc:mid:jung:top"/>
+    <file name="jquery.watch.js" crc="104486786" ref="index:maps:game-info:mains-en-lvls:builds:tactiek:adc:mid:jung:top"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:maps:game-info:mains-en-lvls:builds:tactiek:adc:mid:jung:top"/>
+    <file name="require.js" crc="244322403" ref="index:maps:game-info:mains-en-lvls:builds:tactiek:adc:mid:jung:top"/>
+  </folder>
+  <folder name="images">
+    <file name="logo icon website-crop-u405.png" crc="4084189444" ref="index:maps:game-info:mains-en-lvls:builds:tactiek:adc:mid:jung:top"/>
+    <file name="lol_ahri_vs_morgana_wallpaper_by_ddddd210-d72iw2y.jpg" crc="4160197443" ref="index:maps:game-info:mains-en-lvls:builds:tactiek:adc:mid:jung:top"/>
+    <file name="sr_map.jpg" crc="3882213024" seo="true" ref="maps"/>
+    <file name="6359770.jpg" crc="446518857" seo="true" ref="maps"/>
+    <file name="treeline_map.jpg" crc="4066249052" seo="true" ref="maps"/>
+    <file name="crystal_scar_map.jpg" crc="227967059" seo="true" ref="maps"/>
+    <file name="u533-6.png" crc="470756626" ref="game-info"/>
+    <file name="sandstorm-ekko.jpg" crc="4136204932" seo="true" ref="mains-en-lvls:mid:top"/>
+    <file name="mastery 6 icon.png" crc="71907921" seo="true" ref="mains-en-lvls"/>
+    <file name="yasuo_0.jpg" crc="3840910380" seo="true" ref="mains-en-lvls:top"/>
+    <file name="championship-riven-banner.jpg" crc="4025387378" seo="true" ref="mains-en-lvls"/>
+    <file name="mastery 5 icon.png" crc="3823107631" seo="true" ref="mains-en-lvls"/>
+    <file name="assassin-master-yi.jpg" crc="448341456" seo="true" ref="mains-en-lvls:jung"/>
+    <file name="url.jpg" crc="94446527" seo="true" ref="adc"/>
+    <file name="url-2.jpg" crc="421356418" seo="true" ref="adc"/>
+    <file name="hqdefault.jpg" crc="155235895" seo="true" ref="adc"/>
+    <file name="image.jpg" crc="489526045" seo="true" ref="adc"/>
+    <file name="d0c6f4cbf0cc50c4e39c689070846b69996cf176_hq.jpg" crc="120230571" seo="true" ref="adc:jung"/>
+    <file name="rapid_firecannon_item.png" crc="4261445854" seo="true" ref="adc"/>
+    <file name="phantom_dancer_item.jpg" crc="277280146" seo="true" ref="adc:jung"/>
+    <file name="blade_of_the_ruined_king_by_ahri_chan-d96o6c1.jpg" crc="3875533788" seo="true" ref="adc:jung"/>
+    <file name="photo81x81.jpg" crc="4130198337" seo="true" ref="adc"/>
+    <file name="photo-1.jpg" crc="292733036" seo="true" ref="adc:mid:jung"/>
+    <file name="the_black_cleaver_item.jpg" crc="3764350553" seo="true" ref="adc:mid:jung"/>
+    <file name="rapid_firecannon_item78x78.png" crc="3850599794" seo="true" ref="adc"/>
+    <file name="hextech probelt.png" crc="443244814" seo="true" ref="mid:top"/>
+    <file name="03345e962ab7721fae56953753ddaf1a3665da90_hq-1.gif" crc="152520141" seo="true" ref="mid"/>
+    <file name="photo-2.jpg" crc="4118871831" seo="true" ref="mid"/>
+    <file name="68137f22a0195346372fab607d8f1b7db87dddee_hq.jpg" crc="459917398" seo="true" ref="mid"/>
+    <file name="rabadon-s_deathcap.gif" crc="3797406965" seo="true" ref="mid"/>
+    <file name="zhonyas-hourglass-final-icon.jpg" crc="3834737073" seo="true" ref="mid"/>
+    <file name="syndra-league-of-legends-wallpaper-1.jpg" crc="3931736762" seo="true" ref="mid"/>
+    <file name="hqdefault2.jpg" crc="4259443244" seo="true" ref="mid"/>
+    <file name="ejqco9p.jpg" crc="3867430565" seo="true" ref="mid"/>
+    <file name="images.jpg" crc="3798471177" seo="true" ref="mid"/>
+    <file name="photo.jpg" crc="319671087" seo="true" ref="mid"/>
+    <file name="talon_splash_5.jpg" crc="215426539" seo="true" ref="mid"/>
+    <file name="photo2.jpg" crc="82605711" seo="true" ref="mid"/>
+    <file name="ravenous_hydra_item.jpg" crc="4014964735" seo="true" ref="mid"/>
+    <file name="fkw0o86htus04rjsquare2.jpg" crc="499269522" seo="true" ref="mid"/>
+    <file name="edge_of_night_item.jpg" crc="456010025" seo="true" ref="mid"/>
+    <file name="url-1.jpg" crc="4166061623" seo="true" ref="jung"/>
+    <file name="lee_sin_dragonfistskin.jpg" crc="4157429396" seo="true" ref="jung"/>
+    <file name="photo3.jpg" crc="3805447254" seo="true" ref="jung"/>
+    <file name="20150921044850.gif" crc="232559796" seo="true" ref="jung"/>
+    <file name="death-s_dance_item.jpg" crc="4021780382" seo="true" ref="jung"/>
+    <file name="200x200_5260143.gif" crc="4037765472" seo="true" ref="jung"/>
+    <file name="dead mans plate.png" crc="486546415" seo="true" ref="jung"/>
+    <file name="tracker-s_knife_(warrior)_item.jpg" crc="3980554967" seo="true" ref="jung"/>
+    <file name="dead mans plate114x86.png" crc="462934172" seo="true" ref="jung"/>
+    <file name="warmogs armor.png" crc="4173344601" seo="true" ref="jung"/>
+    <file name="ba58cbac74fb3dedf9f8f9f6b71cedcaa3f3d712_hq.jpg" crc="4120220609" seo="true" ref="jung"/>
+    <file name="championship-riven-banner-crop-u678.jpg" crc="194499852" ref="top"/>
+    <file name="photo4.jpg" crc="3782778493" seo="true" ref="top"/>
+    <file name="photo-12.jpg" crc="192348489" seo="true" ref="top"/>
+    <file name="edge_of_night_item2.jpg" crc="4048931390" seo="true" ref="top"/>
+    <file name="the_black_cleaver_item2.jpg" crc="3764350553" seo="true" ref="top"/>
+    <file name="ravenous_hydra_item2.jpg" crc="279053461" seo="true" ref="top"/>
+    <file name="d0c6f4cbf0cc50c4e39c689070846b69996cf176_hq2.jpg" crc="120230571" seo="true" ref="top"/>
+    <file name="03345e962ab7721fae56953753ddaf1a3665da90_hq-12.gif" crc="152520141" seo="true" ref="top"/>
+    <file name="photo-22.jpg" crc="4116588169" seo="true" ref="top"/>
+    <file name="zhonyas-hourglass-final-icon2.jpg" crc="3834737073" seo="true" ref="top"/>
+    <file name="fkw0o86htus04rjsquare22.jpg" crc="508484939" seo="true" ref="top"/>
+    <file name="rabadon-s_deathcap2.gif" crc="3797406965" seo="true" ref="top"/>
+    <file name="phantom_dancer_item2.jpg" crc="4236989198" seo="true" ref="top"/>
+    <file name="200x200_52601432.gif" crc="4037765472" seo="true" ref="top"/>
+    <file name="hqdefault-crop-u836.jpg" crc="245907415" ref="top"/>
+    <file name="blade_of_the_ruined_king_by_ahri_chan-d96o6c12.jpg" crc="158734844" seo="true" ref="top"/>
+  </folder>
+  <file name="index.html" crc="519204672" seo="true" mt="1487236266448" redirect="true"/>
+  <file name="maps.html" crc="4246066272" seo="true" mt="1487238238182" redirect="true"/>
+  <file name="game-info.html" crc="3889977271" seo="true" mt="1487238305004" redirect="true"/>
+  <file name="mains-en-lvls.html" crc="3957963692" seo="true" mt="1487239981610" redirect="true"/>
+  <file name="builds.html" crc="170837294" seo="true" mt="1487236634531" redirect="true"/>
+  <file name="tactiek.html" crc="4251326051" seo="true" mt="1487236266448" redirect="true"/>
+  <file name="adc.html" crc="3884378194" seo="true" mt="1487326515250" redirect="true"/>
+  <file name="mid.html" crc="207742378" seo="true" mt="1487326246427" redirect="true"/>
+  <file name="jung.html" crc="432358867" seo="true" mt="1487325858308" redirect="true"/>
+  <file name="top.html" crc="4294570452" seo="true" mt="1487321633945" redirect="true"/>
+</manifest>
